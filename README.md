@@ -12,11 +12,6 @@ Welcome to the **Vocal Chain Processor VST**! Designed with input from the Occid
 The UI is designed to keep essential tools front and center, making it easy for both beginners and pros to get the sound they’re after. The minimalist layout focuses on intuitive controls, so you can make adjustments quickly without sacrificing precision.
 ![Vocal Processor GUI](https://github.com/user-attachments/assets/8a7c1e7f-faff-4e32-a32a-86082c4da390)
 
-## 🚀 Getting Started
-1. **Install**: Download and add the VST to your preferred DAW’s plug-in folder.
-2. **Load it up**: Add the Vocal Chain Processor VST to your vocal tracks.
-3. **Dial in Your Sound**: Use the 3-band EQ and other tools to shape your vocals to perfection.
-
 ## 🎼 Use Cases
 This VST has already been put through its paces in five different music production projects, where it consistently reduced processing time while delivering quality results. Ideal for vocal producers who want a streamlined tool without the hassle of loading multiple plug-ins.
 
